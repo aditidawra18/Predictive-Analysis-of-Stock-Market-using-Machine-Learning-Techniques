@@ -27,25 +27,6 @@ This notebook demonstrates the complete workflow for building a stock market pre
 | Machine Learning | Scikit-learn |
 | Environment | Jupyter Notebook |
 
----
-
-## 🧩 Project Structure
-
-```
-├── data/
-│   ├── stock_data.csv                # (optional) Sample dataset
-│
-├── images/
-│   ├── correlation_heatmap.png       # (optional) Visualization outputs
-│
-├── Stock Market Prediction.ipynb     # Main project notebook
-├── requirements.txt                  # Python dependencies
-├── LICENSE                           # Open-source license (MIT recommended)
-└── README.md                         # Project documentation
-```
-
----
-
 ## 🚀 How to Run
 
 1. Clone the repository:
@@ -85,14 +66,5 @@ This notebook demonstrates the complete workflow for building a stock market pre
 
 ---
 
-## 🧑‍💻 Author
-
+##Author
 **Aditi Dawra**  
-Data Analyst | Machine Learning Enthusiast  
-📫 Connect on [LinkedIn](https://www.linkedin.com) | ✉️ [Email](mailto:your-email@example.com)
-
----
-
-## ⚖️ License
-
-This project is licensed under the **MIT License** – see the [LICENSE](./LICENSE) file for details.
